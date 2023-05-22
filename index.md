@@ -29,6 +29,8 @@ vim ListExamples.java
 /lo → <Enter> → <down> → <left> → <left> → <left> → <left> → c → <delete> → type 2 → <Esc> → :wq
 ```
 
+Summary of keys used: I first used / which let me search for lo which is in the word below. I used Enter to use /lo and used the arrow keys to navigate myself to the area I wanted to be in. I would then use c so I can replace letters changing index1 to index2. Lastly, I used :wq to save and quit vim.
+
 8. Run the tests, demonstrating that they now succeed
 ![](Step8.png)
 Keys Pressed:
